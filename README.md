@@ -1,4 +1,4 @@
-![image](http://git.adverplex.com/derek/saloon/raw/master/doc/saloon.gif)
+![image](https://raw.githubusercontent.com/derekrb/saloon/master/doc/saloon.gif)
 
 # What is Saloon?
 
